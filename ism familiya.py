@@ -29,13 +29,41 @@
 # for mashina in mashinalar:
 #     for harf in mashina:
 #         print(harf)
-# 2-masala.sonlar to'plami berilgan bu to'plamni o'sish tartibida saralang.
-#sonlar=[2,8,4,5,4,1,0,9]
+# 2-masala.sonlar to'plami berilgan bu to'plamni kichigini toping.
+# sonlar=[2,8,4,5,4,1,0,9]
+# kichikson=sonlar[0]
+# for son in sonlar:
+#     if kichikson>son:
+#         kichikson=son
+# print(kichikson)
+# 3-masala.sonlar to'plami berilgan bu to'plamni o'sish tartibida saralang.
+# sonlar=[2,8,4,5,4,1,0,9]
+# for index in range(len(sonlar)):
+#     for key in range(len(sonlar)):
+#         if sonlar[index]=
+import random
+kiritilganson=int(input("son->"))
+tasodifiyson=random.randint(1,5)
+if kiritilganson==tasodifiyson:
+    print(tasodifiyson)
+    print("yutdingiz")
+else:
+    print(tasodifiyson)
+    print("dam oling")
+
+    break
+    print("tugasin")
+
+
+
+
+
+
 #4-masala  raqamlar to'plamida elementi nechchiga teng bo'lsa shu elementni shuncha chop eting
-sonlar.sort(reverse=False)
-numbers=[2,1,6,7]
-for index in range(len(sonlar))
-    for key in range
+# sonlar.sort(reverse=False)
+# numbers=[2,1,6,7]
+# for index in range(len(sonlar))
+#     for key in range
 
 
 
