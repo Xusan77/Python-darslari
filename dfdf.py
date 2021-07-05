@@ -32,3 +32,56 @@
 #     else:
 #         a[i]=a[i+1]
 #         print(a)
+# from array import*array1=array('i',[10,20,30,40,50])
+# array1=remove(40)
+# for x in array1:
+#     print(x)
+# numbersList=[[1,2,3,4],[0,[1,2,[4,5, [10,11]],4],5],12]
+# print(numbersList)
+# matritsa=[[2,3,7],[4,7,6]]+[[1,9,8],[3,6,9]]-[[7,4,1],[1,5,9],[3,5,7]]
+# print(matritsa)
+# nm=[[1]*3]*3
+# print(nm)
+#masala
+# nambersList=[[1,5],[2,8]]
+# nambersList2=[[4,5],[8,1]]
+# print([nambersList[0]
+# """3x2"""
+#matrix=[[1,2],[3,4],[5,6]]
+
+# for i in range(3):
+#     for j in range(3):
+#         print(a[i][j])
+#6-masala
+# c=[]
+# a=[[1,2],[3,4]]
+# for j in a:
+#     for g in j:
+#         c.append(g)
+# print(c)
+# c=[]
+# a=[[1,2],[3,4]]
+# c=a[0]+a[1]
+# #[1,2]+[3,4]=[1,2,3,4]
+# print(c)
+# a=[[1,2],[3,4]]
+# for i in a:
+#     for j in i:
+#         print(j)
+print(a)
+for i in range(2):
+    for j in range(2):
+        if a[i][j]%2==0:
+            a[]
+a=[[1,2],[3,4]]
+for i in a:
+  for g in j:
+
+
+
+
+
+
+
+
+
