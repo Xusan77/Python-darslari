@@ -68,16 +68,39 @@
 # for i in a:
 #     for j in i:
 #         print(j)
-print(a)
-for i in range(2):
-    for j in range(2):
-        if a[i][j]%2==0:
-            a[]
-a=[[1,2],[3,4]]
-for i in a:
-  for g in j:
+#print(a)
+#for i in range(2):
+#    for j in range(2):
+#        if a[i][j]%2==0:
+#            a[]
+#a=[[1,2],[3,4]]
+#for i in a:
+# for g in j
+# 3-masala
 
-
+# a=(1,2,3,4,5,6)
+# juft = []
+# toq=[]
+# for i in range(len(a)):
+#     if (i+1)%2==0:
+#         juft.append(a[i])
+#     else:
+#         toq.append([i])
+# print(juft)
+# print(toq)
+# a=(1,2,3,4,5,6,7,8)
+# b=list(a)
+# c=[]
+# for i in range(len(b)):
+#     c.append(b[0])
+#     if b[0]==b[-1]:
+#         break
+#     c.append(b[-1])
+#     b.pop(-1)
+#     if not b:
+#         break
+#     a=tuple(c)
+# print(a)
 
 
 
