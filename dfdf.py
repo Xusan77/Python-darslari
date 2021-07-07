@@ -101,6 +101,65 @@
 #         break
 #     a=tuple(c)
 # print(a)
+# a=(1,2,3,4,5,6,7,8)
+# b=list(a)
+# mk=[]
+# k=len(b)-1
+# for i in range(len(b)//2):
+#     mk.append(b[i])
+#     mk.append(b[k])
+#     k-=1
+# print(mk)
+# a=(1,2,3,4,5,6)
+# i=0
+# b=list(a)
+# c=[]
+# while i<(len(a)//2):
+#     if i==0:
+#         c.append(b[0])
+#     else:
+#         c.append(b[-i])
+#         c.append(b[i])
+#     i+=1
+# else:
+#        c.append(b[i])
+# print(c)
+# numbers={1,2,3,4,5,6}
+# print(type(numbers))
+# mevalar={"gilos","uzum"}
+# mevalar.add("olma")
+# print(mevalar)
+# mevalar={"banan"}
+# mevalar.update(["gilos","olma"])
+# print(mevalar)
+#5-masala
+# mevalar={"olma","gilos"}
+# mevalar.clear()
+# print(mevalar)
+# matematika=["ibroxim","Abbos","Said","bunyod"]
+# fizika=["Oybek","Komil","Abbos","ibroxim"]
+# informatika=["bunyod","Abbos","Komil","Oybek"]
+# a=matematika+fizika+informatika
+# a=set(a)
+# matematika=["ibroxim","Abbos","Said","bunyod"]
+# fizika=["Oybek","Komil","Abbos","ibroxim"]
+# informatika=["bunyod","Abbos","Komil","Oybek"]
+# a=len(matematika)
+# b=len(fizika)
+# c=len(informatika)
+# print(f"matematikaga borgan:{a} ")
+# print(f"fizikaga borgan:{b} ")
+# print(f"informatikaga borgan:{c}")
+
+
+
+
+
+
+
+
+
+
 
 
 
