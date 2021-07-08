@@ -150,6 +150,63 @@
 # print(f"matematikaga borgan:{a} ")
 # print(f"fizikaga borgan:{b} ")
 # print(f"informatikaga borgan:{c}")
+# shaxs={
+#     "ism":"Oybek",
+#     "yoshi":22,
+#     "kasbi":"o'qituvchi"
+# }
+# print(shaxs)
+# shaxs={
+#     "ism":"O'tkir",
+#     "yoshi":16,
+#     "manzil":"Jizzax tumani"
+# }
+# print(shaxs)
+# shaxs={"ism":"Sobir",
+#     "kursi":"III",
+#     "baxosi":"5"
+#        }
+# print(shaxs.keys())
+# print(shaxs.values())
+# shaxs={"ism":"komil","yoshi":15
+#        }
+# {"ism":"raxim","yoshi":23
+#  }
+# {"ism":"said","yoshi":21
+#  }
+# for shaxs in shaxslar:
+#     if shaxs["yoshi"]<20
+#         print(shaxs["ism"])
+# yil=int(input("necha yil o'tdi->"))
+# talaba={    "ism":"Sobir",
+#     "yoshi":19,
+# }
+# talaba["yoshi"]=talaba["yoshi"]+yil
+# print(talaba)
+# shaxs={
+#     "ism":"Sobir",
+#     "yoshi":14,
+#     "o'quvchi":True
+# }
+# yil=int(input("yil->"))
+# shaxs["yoshi"]=shaxs["yoshi"]+yil
+# if shaxs ["yoshi"]<18:
+#     del shaxs["yoshi"]
+# print(shaxs)
+#
+# for i in talaba:
+#     if i=="yosh":
+#         print("bor")
+#         break
+# else:
+#     print("yo'q")
+EnUz={
+    "i":"men",
+    "you":["sen","siz"],
+
+}
+
+
 
 
 
