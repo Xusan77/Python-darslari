@@ -200,11 +200,85 @@
 #         break
 # else:
 #     print("yo'q")
-EnUz={
-    "i":"men",
-    "you":["sen","siz"],
+# EnUz={
+#     "i":"men",
+#     "you":["sen","s
+# def salom():
+#     print("salom")
+# # funksiyani chiqarish
+# salom()
+#argumen va parametr
+# def salom(name):
+#     print(f"salom{name}")
+# # 2) funksiyani chaqirish
+# salom(" Ali")
+# def salom(name):
+#     print(f"salom{name}")
+# ism=input("ismingizni kiriting")
+# salom(ism)
+# def ikkilangan(son):
+#      print(son * 2)
+# a=int(input("son kiriting:"))
+# ikkilangan(a)
+# def ismlar_ruyxati(*ism):
+#     print(ism)
+# ismlar_ruyxati("ali","vali","gani","soli")
+# def uquvchi(**x):
+#     print(x)
+# uquvchi(ism="ali",yoshi=18,millati="o'zbek")
+# def myfunction(tulov=0):
+#     print(f"sizdan {tulov} so'm")
+# myfunction (20000)
+# def rang(r="qora"):
+#     print(f"men yoqtirgan rang:{r}")
+# rang("oq")
+# def uquvchilar(x):
+#     for i in x:
+#         print(i)
+# uquvchi=["ali","vali","soli"]
+# uquvchilar(uquvchi)
+# a=2
+# b=1
+# def yigindi(a,b):
+#     return a+b
+# print(yigindi(a,b))
+#o'rta arifmetik
+# def urta(a,b,c):
+#     return(a+b+c)/3
+# print(urta)
+# ikki sonning kattasini qaytarib beradigan funksiya tuzing
+# def katta(a,b):
+#     if a>b:
+#         return a
+#     else:
+#         return b
+# print(katta(3,2))
+# 4-masala
+# def modul(n):
+#     if=n>=0:
+#     def ikkilash(n):
+#         return 2*n
+# def masala(n):
+#     m=modul(n)
+#     return ikkilash(m)
+# print(masala(-5))
+# 5-masala
+def PowerA3(n):
+    return n**3
+A=1.1
+B=2.2
+C=3.3
+D=1
+E=2
+print(PowerA3(A))
 
-}
+
+
+
+
+
+
+
 
 
 
