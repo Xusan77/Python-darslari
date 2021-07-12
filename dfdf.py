@@ -265,12 +265,66 @@
 # 5-masala
 def PowerA3(n):
     return n**3
-A=1.1
-B=2.2
-C=3.3
-D=1
-E=2
-print(PowerA3(A))
+# A=1.1
+# B=2.2
+# C=3.3
+# D=1
+# E=2
+# print(PowerA3(A))
+# a=50
+# b=30
+# if a>b:
+#     print("ha")
+# x=abs(-5)
+# y=pow(5,3)
+# print(x)
+# print(y)
+# import math
+# x=math.sqrt(64)
+# print(x)
+# class Talaba (odam):
+#     def_init_(self,ism,familiya):
+#        Odam.init_(self,ism,familiya)
+# x=Talaba("Asadbek","Suvanov")
+# x.tanish()
+# from math import factorial as f
+# def myFunction(n,k):
+#     return f(n)/(f(k)*f(n-k))
+# print(myFunction(6,4))
+# n=int(input("n="))
+# def myFunction2(n):
+#     qiymat=[]
+#     for i in range (1,n):
+#         if i**2<n:
+#             qiymat.append(i)
+#             return qiymat
+#
+# print(myFunction2(n))
+# n=int(input("n="))
+# def nYulduz(n):
+#     print((n*"*"+'\n')*n)
+# nYulduz(n)
+# n=int(input("n= "))
+# def buluvchilar(a):
+#     for i in range(1, a+1):
+#         if a%i==0:
+#             print(i,end=" ")
+# buluvchilar(n)
+# n=int(input("n="))
+# birlar=n%10
+# unlar=n//10%10
+# yuzlar=n//100%10
+# s=birlar+unlar+yuzlar
+# print(f"s={s}")
+a=int(input("a="))
+
+
+
+
+
+
+
+
 
 
 
