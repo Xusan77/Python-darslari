@@ -316,9 +316,22 @@ def PowerA3(n):
 # yuzlar=n//100%10
 # s=birlar+unlar+yuzlar
 # print(f"s={s}")
-a=int(input("a="))
+# a=int(input("a="))
 
-
+# def yigindi (n):
+#     if n==1:
+#     else:
+#         return n+yigindi (n-1)
+# print(yigindi(5))
+# import pygame
+# import random
+# pygame.int()
+# dis=pygame.display.set_mode((400, 300))
+# pygame.display.update()
+# pygame.quit()
+# quit()
+import"salom"
+print("salom")
 
 
 

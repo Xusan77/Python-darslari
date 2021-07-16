@@ -1,0 +1,20 @@
+# x=int(input("x="))
+# y=int(input("y="))
+# x=min(3,8,11)
+# y=max(3,8,11)
+# print(x)
+# print(y)
+# f=open("mening_faylim.txt",'x')
+
+# f=open("mening_fayllarim.txt")
+# print(f.read())
+# f=open("mening_fayllarim.txt")
+# print(f.read())
+# f.close()
+# f=open("mening_fayllarim.txt" ,'w')
+# f.write("salom")
+# f.close()
+# f=open("mening_fayllarim.txt")
+# print(f.read())
+
+
