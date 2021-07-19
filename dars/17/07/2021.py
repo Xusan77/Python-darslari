@@ -38,25 +38,60 @@
 # print(sh1.tuliq_ism())
 # print(sh1.tuliq_manzil())
 
-class Xodim:
-    def __init__(self,ismi,manzili,maoshi):
-        self.ismi=ismi
-        self.manzili=manzili
-        self.maoshi=maoshi
-xodimlar=[]
-x1=Xodim("Bunyod","lalmikor",4000000)
-xodimlar.append(x1)
-x2=Xodim("Sunnat","Lalmikor",4000000)
-xodimlar.append(x2)
-x3=Xodim("Doston","Lalmikor",3000000)
-xodimlar.append(x3)
-x4=Xodim("Ilyos","Lalmikor",1500000)
-xodimlar.append(x4)
-x5=Xodim("shaxzod","Lalmikor",9000000)
-xodimlar.append(x5)
-for xodim in xodimlar:
-    if xodim.maoshi<2000000:
-        print(xodim.ismi)
+# class Xodim:
+#     def __init__(self,ismi,manzili,maoshi):
+#         self.ismi=ismi
+#         self.manzili=manzili
+#         self.maoshi=maoshi
+# xodimlar=[]
+# x1=Xodim("Bunyod","lalmikor",4000000)
+# xodimlar.append(x1)
+# x2=Xodim("Sunnat","Lalmikor",4000000)
+# xodimlar.append(x2)
+# x3=Xodim("Doston","Lalmikor",3000000)
+# xodimlar.append(x3)
+# x4=Xodim("Ilyos","Lalmikor",1500000)
+# xodimlar.append(x4)
+# x5=Xodim("shaxzod","Lalmikor",9000000)
+# xodimlar.append(x5)
+# for xodim in xodimlar:
+#     if xodim.maoshi<2000000:
+#         print(xodim.ismi)
+# class Son:
+#     x=5
+#     a=son()
+# class Son1:
+#      def __init__(self,x):
+#          self.x=x
+# b=Son1(5)
+# print(b.x)
+#ajdod klass
+# class Nokia:
+#     def __init__(self,markasi,gaplashish,sms,kamera):
+#         self.markasi=markasi
+#         self.gaplashish=gaplashish
+#         self.sms=sms
+#         self.kamera=kamera
+# #voris olamiz
+# class Samsung(Nokia):
+#     def yangilik(self,telegram,instagram,hdcamera):
+#         self.telegram=telegram
+#         self.instagram=instagram
+#         self.hdcamera = hdcamera
+# nokia6300=Nokia('nokia6300',True,True,True)
+# samsungJ2 = Samsung("samsungJ2", True, True, True)
+# samsungJ2.yangilik("telegram bor","instagram bor","hdcamera bor")
+# print(nokia6300.__dict__)
+# print(samsungJ2.__dict__)
+# class SonAjdod:
+#     def __init__(self,x):
+#         self.x=x
+# class SonVoris(SonAjdod):
+#     pass
+# x=SonVoris(5)
+# y=SonAjdod(5)
+
+
 
 
 
